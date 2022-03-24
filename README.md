@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&duration=4000&width=850&height=30&lines=Hi+there%2C+welcome+to+my+Github!%F0%9F%91%8B;I'm+Aderbal+Farias+a+Software+engineer+and+Full+stack+developer;Nice+to+see+you+came+to+my+profile...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358A6FF&duration=4000&width=850&height=30&lines=Hi+there%2C+welcome+to+my+Github!%F0%9F%91%8B;I'm+Claudinei+Nascimento+a+Full+stack+developer;Nice+to+see+you+came+to+my+profile...)](https://git.io/typing-svg)
 <br>
 I'm from Brazil
  - 🔭  Full Stack Developer (React, React-Native, Asp.Net, .Net Core, .Net, Python)
