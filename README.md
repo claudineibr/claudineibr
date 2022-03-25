@@ -6,7 +6,7 @@ I'm from Brazil
  - 💬 "Time does not stop" 
  - 💬 "Rocket does not reverse" 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=claudineibr&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true&background=0D1117&border=FFFFFF&fire=58A6FF&ring=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&stroke=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=claudineibr&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p align="left">
   <!--<a href="https://github.com/anuraghazra/github-readme-stats">
